@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  font-family: "Futura", sans-serif;
+  font-weight: normal;
+  font-size: 28px;
+  margin-top: 20%;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 48px;
+  font-family: "Futura";
+}
+
+.Countdown-desc{
+  display: block;
+  margin-bottom: 2%;
+}
+
+
+.Countdown-days, .Countdown-hours, .Countdown-mins, .Countdown-secs{
+  display: inline;
+  margin: 5%;
+}
