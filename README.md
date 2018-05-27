@@ -15,5 +15,7 @@ What did I learn?
   <p> You can try out the app on Heroku </p>
   <p> Link: https://count-down-clock.herokuapp.com/ </p>
   
+  <p> Here's what it looks like </p>
+  <img src = "Screen.png" height = "80%" width = "80%">
   </body>
   </html>
